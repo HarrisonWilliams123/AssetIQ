@@ -1,0 +1,18 @@
+column,data_type,missing_values,missing_pct,unique_values
+Unnamed: 0,int64,0,0.0,1516948
+timestamp,str,0,0.0,1516948
+TP2,float64,0,0.0,5257
+TP3,float64,0,0.0,3683
+H1,float64,0,0.0,2665
+DV_pressure,float64,0,0.0,2257
+Reservoirs,float64,0,0.0,3682
+Oil_temperature,float64,0,0.0,2462
+Motor_current,float64,0,0.0,1809
+COMP,float64,0,0.0,2
+DV_eletric,float64,0,0.0,2
+Towers,float64,0,0.0,2
+MPG,float64,0,0.0,2
+LPS,float64,0,0.0,2
+Pressure_switch,float64,0,0.0,2
+Oil_level,float64,0,0.0,2
+Caudal_impulses,float64,0,0.0,2

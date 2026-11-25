@@ -1,0 +1,18 @@
+original_column,standardized_column
+Unnamed: 0,unnamed_0
+timestamp,timestamp
+TP2,tp2
+TP3,tp3
+H1,h1
+DV_pressure,dv_pressure
+Reservoirs,reservoirs
+Oil_temperature,oil_temperature
+Motor_current,motor_current
+COMP,comp
+DV_eletric,dv_eletric
+Towers,towers
+MPG,mpg
+LPS,lps
+Pressure_switch,pressure_switch
+Oil_level,oil_level
+Caudal_impulses,caudal_impulses
